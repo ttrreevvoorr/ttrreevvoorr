@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ttrreevvoorr/ttrreevvoorr/assets/53444861/ef2e7b4c-b5a6-4318-b9cf-56b3f85eaeff');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.45; background: url('https://github.com/ttrreevvoorr/ttrreevvoorr/assets/53444861/1e0f8315-4f5e-4be7-9e3f-f5b63a164d78');]{x0000}$}
